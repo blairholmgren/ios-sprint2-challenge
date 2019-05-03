@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+class ShoppingListController {
+    
+    let itemNames = ["apple", "grapes", "milk", "muffin", "popcorn", "soda", "strawberries"]
+    
+    
+    
+}

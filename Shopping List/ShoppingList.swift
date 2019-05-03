@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct ShoppingItem: Equatable {
+struct ShoppingList: Equatable {
     var imageData: Data
     var title: String
     var hasBeenAdded: Bool

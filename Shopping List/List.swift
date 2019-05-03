@@ -7,3 +7,20 @@
 //
 
 import Foundation
+
+class List {
+    if list.isEmpty { return }
+ else {
+    setList
+    }
+
+let shoppingListKey: String = "this is my key"
+let userDefaults = UserDefaults.standard
+
+var list: String? {
+    return userDefaults.string(forKey: shoppingListKey)
+    }
+}
+
+
+
